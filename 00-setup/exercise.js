@@ -11,7 +11,7 @@
 export function getStudent() {
   return {
     // TODO: replace with your full name, as it appears on your student card.
-    name: "aly ahmed ",
+    name: "aly ahmed",
  //
     studentId: "16002325",
 
