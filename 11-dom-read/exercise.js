@@ -1,3 +1,5 @@
+// 11-dom-read — your work goes in this file.
+
 export function pageHeading() {
   return document.querySelector("h1").textContent.trim();
 }
